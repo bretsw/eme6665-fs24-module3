@@ -1,5 +1,5 @@
 ---
-title: "Module 4: A Handbook's Tale"
+title: "Module 3: A Handbook's Tale"
 subtitle: "EME6665: Synthesis, Analysis, & Argumentation"
 author: "Dr. Bret Staudt Willet"
 date: "September 23, 2024"
